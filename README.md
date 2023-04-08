@@ -5,7 +5,10 @@
 ![image](https://user-images.githubusercontent.com/69597971/230695343-e07ab39d-4d84-43dc-a070-e9b1135f8c57.png)
 
 
-![](https://huggingface.co/blog/assets/103_setfit/setfit_curves.png)
+![image](https://user-images.githubusercontent.com/69597971/230698172-6f7084b6-c1f1-4e7c-84ac-4e58cbd85153.png)
+
+
+
 
 
 Links de estudo:
